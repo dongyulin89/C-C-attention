@@ -19,8 +19,6 @@ int main(){
 #if 2 < 5
   cout << "code1" << endl;
 #else
-
-
   cout << "code2" << endl;
 #endif
 
